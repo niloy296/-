@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Taka Reward</string>
+    <string name="tagline">ভিডিও দেখে আয় করুন • বিকাশ পেমেন্ট</string>
+    <string name="nav_home">হোম</string>
+    <string name="nav_watch">অ্যাড দেখুন</string>
+    <string name="nav_games">টাস্ক ও গেম</string>
+    <string name="nav_withdraw">উইথড্র</string>
+    <string name="nav_profile">প্রোফাইল</string>
+    <string name="balance_taka">৳%1$s</string>
+    <string name="balance_coins">%1$d কয়েন</string>
+    <string name="coin_rate">১,০০০ কয়েন = ৳১০</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Taka Reward",
+  "description": "ভিডিও অ্যাড দেখে টাকা আয় এবং বিকাশ ও নগদ পেমেন্ট উইথড্র করুন। Earn rewards by watching ads with bKash withdrawal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
